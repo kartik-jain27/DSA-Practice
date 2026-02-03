@@ -56,4 +56,8 @@ My goal is not just to solve the problem but to understand the underlying concep
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartik-jain27/DSA-Practice/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/kartik-jain27/DSA-Practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
