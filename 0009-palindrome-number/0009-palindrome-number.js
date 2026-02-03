@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
-    let y = String(x)
-    let z = String(x).split('').reverse().join('')
+    let y = x.toString()
+    let z = x.toString().split('').reverse().join('')
     return y == z
 };
