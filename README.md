@@ -60,4 +60,12 @@ My goal is not just to solve the problem but to understand the underlying concep
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kartik-jain27/DSA-Practice/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kartik-jain27/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kartik-jain27/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
