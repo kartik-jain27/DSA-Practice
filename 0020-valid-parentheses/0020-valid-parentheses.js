@@ -2,9 +2,11 @@
  * @param {string} s
  * @return {boolean}
  */
+
 var isValid = function (s) {
 
     if (s.length % 2 !== 0) return false;
+
 
     const pairs = {
         ')': '(',
@@ -12,15 +14,22 @@ var isValid = function (s) {
         ']': '['
     };
 
-    let arr = [];
 
-    for (let elem of s) {
-        if (pairs[elem]) {
-            let char = arr.pop()
-            if (pairs[elem] != char) return false
+    const stack = [];
+
+    for (let i = 0; i < s.length; i++) {
+        const char = s[i];
+
+        const match = pairs[char];
+
+        if (match) {
+
+            if (stack.pop() !== match) return false;
         } else {
-            arr.push(elem)
+
+            stack.push(char);
         }
     }
-    return arr.length == 0
+
+    return stack.length === 0;
 };
