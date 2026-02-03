@@ -45,3 +45,15 @@ My goal is not just to solve the problem but to understand the underlying concep
 
 ---
 *Disclaimer: These solutions are for my personal learning. If you are a fellow learner, I encourage you to try solving the problems first before peeking at the code!*# DSA-Practice
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kartik-jain27/DSA-Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kartik-jain27/DSA-Practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
