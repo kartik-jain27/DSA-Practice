@@ -49,23 +49,23 @@ My goal is not just to solve the problem but to understand the underlying concep
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/kartik-jain27/DSA-Practice/tree/master/0001-two-sum) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/kartik-jain27/DSA-Practice/tree/master/0001-two-sum) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/kartik-jain27/DSA-Practice/tree/master/0009-palindrome-number) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kartik-jain27/DSA-Practice/tree/master/0020-valid-parentheses) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kartik-jain27/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
